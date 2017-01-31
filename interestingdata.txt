@@ -2,3 +2,15 @@ https://www.data.gov.au/dataset/overseas-arrivals-and-departures/resource/8acc3a
 https://www.data.gov.au/dataset/report-on-government-services
 https://www.data.gov.au/dataset/community-services-nsw
 https://researchdata.ands.org.au/search/#!/rows=15/sort=score%20desc/class=collection/q=sport/p=1/
+
+
+http://data.nsw.gov.au/data/dataset/1fbbe6c3-f252-4602-88d8-35fbb8b91c7b
+
+http://data.nsw.gov.au/data/dataset/0f6b73ab-c5ef-400b-9e76-089fbb72876b
+
+https://data.gov.au/dataset/national-major-ports-database
+
+https://data.gov.au/dataset/international-airlines-airline-by-country-of-port-data
+
+https://data.qld.gov.au/dataset/electricity-generated-2015
+
