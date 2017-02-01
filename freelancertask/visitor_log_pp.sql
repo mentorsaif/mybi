@@ -20,13 +20,19 @@
 --tab.dob
 --order by count(*) desc
 
+--42727 = 35439 + 7288
 --Visitors log for days when no theft was reported
 select * from visitor_log_i where visit_date not in (
 select theft_day from theft_log_i
 )
 
+--992
+select distinct name, dob from visitor_log_i
+--911
+select distinct name, dob from visitor_log
 
---Make sure you don't already have the table visitor_log_i, suffix i means initial
+
+--Make sure you don't already have the table visitor_log
 if object_id('visitor_log', 'U') is not null
 drop table visitor_log;
 
