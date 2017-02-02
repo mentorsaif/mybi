@@ -4000,3 +4000,7 @@ where notheft = 0
 update visitor_c_i
 set notheft = 0
 where notheft = 3
+
+select * from visitor_all
+where vid in (89, 497, 123, 424, 824, 819, 364, 886, 252, 239
+, 212, 176, 923, 743, 438, 17, 162, 868, 677, 296)
